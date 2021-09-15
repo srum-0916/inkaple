@@ -1,0 +1,43 @@
+h1{
+font-family: 'Jua', sans-serif;
+text-align: center;
+font-size: 60px;
+color: rgb(54, 54, 54);
+}
+
+h3{
+font-family: 'Jua', sans-serif;
+text-align: center;
+color: rgb(68, 68, 68);
+}
+
+.a{
+    font-family: 'Jua', sans-serif;
+    text-align: center;
+    color: rgb(63, 63, 63);
+    padding-left: 700px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.b{
+font-family: 'Jua', sans-serif;
+text-align: center;
+color: rgb(87, 87, 87);
+padding-left: 700px;
+text-align: left;
+float: left;
+font-size: 25px;
+}
+
+.img1{
+position:absolute ; right:0;
+padding-right: 700px;
+}
+
+.d{
+font-family: 'Jua', sans-serif;
+padding-top: 250px;
+text-align: center;
+color: rgb(68, 68, 68);
+}
